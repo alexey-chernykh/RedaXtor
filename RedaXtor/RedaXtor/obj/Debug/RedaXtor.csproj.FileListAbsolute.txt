@@ -1,0 +1,11 @@
+C:\Users\starg\source\repos\RedaXtor\RedaXtor\bin\Debug\RedaXtor.exe.config
+C:\Users\starg\source\repos\RedaXtor\RedaXtor\bin\Debug\RedaXtor.exe
+C:\Users\starg\source\repos\RedaXtor\RedaXtor\bin\Debug\RedaXtor.pdb
+C:\Users\starg\source\repos\RedaXtor\RedaXtor\obj\Debug\RedaXtor.MainForm.resources
+C:\Users\starg\source\repos\RedaXtor\RedaXtor\obj\Debug\RedaXtor.Properties.Resources.resources
+C:\Users\starg\source\repos\RedaXtor\RedaXtor\obj\Debug\RedaXtor.csproj.GenerateResource.cache
+C:\Users\starg\source\repos\RedaXtor\RedaXtor\obj\Debug\RedaXtor.csproj.CoreCompileInputs.cache
+C:\Users\starg\source\repos\RedaXtor\RedaXtor\obj\Debug\RedaXtor.exe
+C:\Users\starg\source\repos\RedaXtor\RedaXtor\obj\Debug\RedaXtor.pdb
+C:\Users\starg\source\repos\RedaXtor\RedaXtor\obj\Debug\RedaXtor.csproj.AssemblyReference.cache
+C:\Users\starg\source\repos\RedaXtor\RedaXtor\obj\Debug\RedaXtor.ConfigForm.resources
